@@ -1,0 +1,11 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Mac OS specific files
+.DS_Store
+
+# IDE specific files
+.idea/
+.vscode/ 
