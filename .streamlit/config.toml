@@ -1,0 +1,39 @@
+[theme]
+# Primary accent color for interactive elements
+primaryColor = "#8B6914"
+
+# Background color for the main content area
+backgroundColor = "#FFFFFF"
+
+# Background color for sidebar and most interactive widgets
+secondaryBackgroundColor = "#F8F9FA"
+
+# Color used for almost all text
+textColor = "#333333"
+
+# Font family for all text in the app, except code blocks
+font = "sans serif"
+
+# Base styling for the app
+base = "light"
+
+[server]
+# Port to use for the server
+port = 8501
+
+# Enable file watching
+fileWatcherType = "auto"
+
+[browser]
+# Internet address where users should point their browsers in order to connect to the app
+serverAddress = "localhost"
+
+# Whether to send usage statistics to Streamlit
+gatherUsageStats = false
+
+[ui]
+# Whether to hide the menu in the top right corner
+hideTopBar = false
+
+# Whether to hide the 'Made with Streamlit' footer
+hideSidebarNav = false
